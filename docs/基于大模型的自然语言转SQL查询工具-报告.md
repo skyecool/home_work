@@ -805,10 +805,10 @@ streamlit run src/frontend/app.py
 
 **界面截图：**
 
-![自然语言查询界面](docs/images/natural_language_query.png.gif)
-![自然语言查询界面1](docs/images/natural_language_query1.png)
-![自然语言查询界面2](docs/images/natural_language_query2.png)
-![自然语言查询界面3](docs/images/natural_language_query3.png)
+![自然语言查询界面](images/natural_language_query.png.gif)
+![自然语言查询界面1](images/natural_language_query1.png)
+![自然语言查询界面2](images/natural_language_query2.png)
+![自然语言查询界面3](images/natural_language_query3.png)
 
 ##### 3.5.3.3 图书录入
 
@@ -828,7 +828,7 @@ streamlit run src/frontend/app.py
 
 **界面截图：**
 
-![图书录入界面](docs/images/book_entry.png)
+![图书录入界面](images/book_entry.png)
 
 ##### 3.5.3.4 E-R图可视化
 
@@ -847,7 +847,7 @@ streamlit run src/frontend/app.py
 
 **界面截图：**
 
-![数据库结构查看](docs/images/database_structure.png)
+![数据库结构查看](images/database_structure.png)
 
 ### 3.6 项目成果
 
