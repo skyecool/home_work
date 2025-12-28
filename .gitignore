@@ -53,5 +53,4 @@ logs/
 
 # 文档生成
 _site/
-*.pdf
 *.html
