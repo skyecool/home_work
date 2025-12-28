@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境
+venv/
+.env/
+env/
+.venv/
+*.venv/
+
+# 依赖相关
+dist/
+build/
+*.egg-info/
+*.egg
+
+# 环境变量
+.env
+.env.local
+.env.*.local
+
+# 数据库
+/src/data/
+data/
+*.db
+*.sqlite
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 操作系统
+.DS_Store
+Thumbs.db
+
+# 日志
+*.log
+logs/
+
+# 其他
+*.pid
+*.seed
+*.pid.lock
+
+# Streamlit
+.streamlit/secrets.toml
+.streamlit/config.toml
+
+# 文档生成
+_site/
+*.pdf
+*.html
